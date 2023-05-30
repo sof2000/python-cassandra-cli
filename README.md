@@ -9,6 +9,13 @@
   5. store-snapshot-table       Take and store Table snapshot to s3 bucket
   6. store-backup-keyspace      Take and store Keyspace backup to s3 bucket without running nodetool, sstableloader, and cqlsh
   7. restore-backup-keyspace    Restore Keyspace backup from s3 bucket without running nodetool, sstableloader, and cqlsh
+## Installation 
+
+1. Navigate to https://pypi.org/project/python-cassandra-cli/ for details.
+2. Run 
+```
+pip install python-cassandra-cli
+```
 
 ## Release Notes
 
