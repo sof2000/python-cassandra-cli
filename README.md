@@ -18,7 +18,7 @@ pip install python-cassandra-cli
 ```
 ## Run as Docker container
 
-Official docker image ```docker pull sof2000/python-cassandra-cli:v1.4.0``
+Official docker image ```docker pull sof2000/python-cassandra-cli:v1.4.0```
 
 ## Release Notes
 
