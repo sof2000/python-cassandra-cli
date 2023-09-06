@@ -1,4 +1,4 @@
-FROM docker-artifactory.spectrumflow.net/docker/alpine:3.11
+FROM alpine:3.11
 
 LABEL maintainer="Andrii Derevianko"
 
